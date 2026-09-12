@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ahmedgoba.github.io/notes-slk39s/sitemap.xml
